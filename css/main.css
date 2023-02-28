@@ -6,3 +6,10 @@
 .nav-spacing {
     margin: 0 0 0 10px;
 }
+.image-link {
+    text-decoration: none;
+    color: blue;
+}
+.table-row {
+    padding: 10px;
+}
